@@ -35,7 +35,7 @@
   <summary><b>✨&nbsp;&nbsp;Know&nbsp;Me&nbsp;Better</b></summary>
   <br/>
 
-I am a software and hardware developer in automatic control system.
+I am a Full Stack Developer developer in Automatic Control Field.
 
 ### My Projects
 All of my projects will be released as open-source on GitHub, this includes some of my GitHub trending projects:
@@ -48,8 +48,8 @@ All of my projects will be released as open-source on GitHub, this includes some
 -->
 	
 ### Awards and Achievements
-- Won the 1st edition of [GitHub India Open Source Grants](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
-- Worked as [DuckDuckGo Community Leader](https://help.duckduckgo.com/community/community-leaders/) and Maintainer
-- Won 1st place in Several Hackathons
+- Won the 3rd Award of the 2021 China College Students' 'Internet+' Innovation and Entrepreneurship Competition
+- Won the Honorable Price of Mathematical Contest In Modeling
+- Won the 1st Award of China Agriculture University Modeling Contest
 </details> 
 
