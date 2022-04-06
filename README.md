@@ -11,12 +11,12 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 Junior of Automation in CAU, China
-- 🙋 I'm working for postgraduate recommendation to TOP Universities!! Find my Resume [here!](https://github.com/Piccabo0/Piccabo0/blob/main/MyResume.pdf) 
-- 🌱 Currently working at CIEE-Lab206 on AGV development and Intelligent Car Race
+- 🔭 &nbsp; Junior of Automation in CAU, China
+- 🙋 &nbsp; I'm working for postgraduate recommendation to TOP Universities!! Find my Resume [here!](https://github.com/Piccabo0/Piccabo0/blob/main/MyResume.pdf) 
+- 🌱 &nbsp; Currently working at CIEE-Lab206 on AGV development and Intelligent Car Race
 - ✍️ &nbsp; Playing Soccer and write something interesting as hobbies/side hustles
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress
-- 💬 Ask me about MSP430, STM32 or Raspberry Pi and my projects on caumlc@163.com
+- 💬 &nbsp; Ask me about MSP430, STM32 or Raspberry Pi and my projects on caumlc@163.com
 <!--
 - :star: You may like [Healthy Code tracer](https://github.com/haoruilee/M5Stack_Healthy_code_tracer), [face recognize](https://github.com/haoruilee/Face_recognize)  or [take-out system](https://github.com/haoruilee/ZuiSuWaiMai-MFC)
 -->
