@@ -27,6 +27,8 @@
 - 🛢 &nbsp; Matlab | Proteus | Multisim | Solidworks | Altium Design
 - 🔧 &nbsp; Paddle | PyCharm | Visual Studio | Keil | Vivado | QT
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piccabo0&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Piccabo0/github-readme-stats)
+
 <details>
   <summary><b>✨&nbsp;&nbsp;Know&nbsp;Me&nbsp;Better</b></summary>
   <br/>
