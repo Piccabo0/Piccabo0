@@ -46,7 +46,8 @@ All of my projects will be released as open-source on GitHub, this includes some
 	
 - [STM32 - IoT](https://github.com/) - An Auto Guided Vehicle which my teammates and I are doing.
 
-### Other Experiments
+### Curriculum Experiments
+
 - [Automatic Control Principle](https://github.com/) - Some theoretical simulations.
 
 - [AI courses](https://github.com/) - Using neural network to realize image classification and target detection.
