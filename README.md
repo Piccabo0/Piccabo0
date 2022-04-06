@@ -16,10 +16,9 @@
 
 - 🔭 Junior of Automation(Artificial Intelligence) in College of Information and Electrical Engineering(CIEE), China Agricultural University, China
 - 🙋 **I'm working for postgraduate recommendation to TOP Universities!**! Find my Resume [here!](https://github.com/Piccabo0/Piccabo0/blob/main/MyResume.pdf) 
-<!-
+<!--
 - 🏆 Learder of [SEU-HPC(High Perfomance Computing) Team](CSWU-Challenge.github.io)
-- 🤖️ Creator of ChatBot [SEU-iXiaoBao](https://ixiaobao.github.io/xiaobao/)
-->
+- 🤖️ Creator of ChatBot [SEU-iXiaoBao](https://ixiaobao.github.io/xiaobao/)-->
 - 🌱 Currently working for [Alibaba-Aliyun](https://www.aliyun.com/) as **Machine-learing Intern** on user behavior understanding and golang cloud-server-log projects using golang && python && tensorflow
 - 💬 Ask me about C++, Python and my projects on haoruileee@gmail.com
 - :star: You may like [Healthy Code tracer](https://github.com/haoruilee/M5Stack_Healthy_code_tracer) 、 [face recognize](https://github.com/haoruilee/Face_recognize) 、 or [take-out system](https://github.com/haoruilee/ZuiSuWaiMai-MFC)
