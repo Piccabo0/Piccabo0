@@ -42,7 +42,7 @@ All of my projects will be released as open-source on GitHub, completed but not 
 	
 - [Basys3 - FPGA ](https://github.com/Piccabo0/Basys3-FPGA) - It is a car that automatically goes back and forth between the starting line and the finish line. In the process, the car can complete corresponding actions in different sections. It has the functions of obstacle avoidance, voice control and driving state detection.
 	
-- [Matlab - CV](https://github.com/) - Analysis of flower rising trend based on the proportion of flowers of different sizes using Matlab.
+- [Matlab - CV](https://github.com/Piccabo0/Matlab-CV) - Analysis of flower rising trend based on the proportion of flowers of different sizes using Matlab.
 	
 - [STM32 - IoT](https://github.com/) - An Auto Guided Vehicle which my teammates and I are doing.
 
