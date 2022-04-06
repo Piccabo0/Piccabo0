@@ -52,8 +52,9 @@ All of my projects will be released as open-source on GitHub, this includes some
 	
 </details> 
 
-
+<!--
 </p>
 	<p align="center"><code>⬇️  click the image to quickly chat with me or some anon here! ⬇️</code></p>
 	<p align="center"><a href="https://chat.getloli.com/room/@haoruilee.github?title=lee%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF"><img src="https://chat.getloli.com/room/@haoruilee.github/svg?width=500&height=280&limit=20&theme=light&title=haoruilee@github:%20~&fontSize=13" alt="chatroom"></a></p>
 </p>
+-->
