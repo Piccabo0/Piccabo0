@@ -47,12 +47,11 @@ All of my projects will be released as open-source on GitHub, this includes some
 - [Refined GitHub Feeds](https://github.com/gautamkrishnar/refined-github-feeds) - A browser extension that adds filtering to the Github news feeds. 
 -->
 	
-### Awards and Achievements
+### Awards and Scholarships
 - Won the 3rd Award of the 2021 China College Students' 'Internet+' Innovation and Entrepreneurship Competition
 - Won the Honorable Price of Mathematical Contest In Modeling
 - Won the 1st Award of China Agriculture University Modeling Contest
-	
-### Scholarships
+
 - National Scholarships
 - Presidential Fellowship (Awarded to 20 students of the whole school each year )
 - Jinlongyu Scholarships
