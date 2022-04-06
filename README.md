@@ -42,8 +42,8 @@ All of my projects will be released as open-source on GitHub, this includes some
 
 - [Raspberry Pi](https://github.com/gautamkrishnar/nothing-private) - It is an intelligent vehicle based on RFID and CV and I used Raspberry Pi 4B to develop it. Based on RFID tag and QR code, the vehicle can realize intelligent guidance function in a fixed environment. Based on infrared & ultrasonic sensor group, steering gear and USB camera, the vehicle can also realize intelligent obstacle avoidance function.
 - [IoT&MSP430](https://github.com/) - It is a home intelligent henhouse monitoring and control system. I use MSP430 board to realize the interconnection of "edge, mobile and cloud terminal". At the edge, the monitoring and real-time display of environmental factors, data storage and the development of early warning system are realized. In the mobile terminal, I used QT to develop the upper computer control software, realizing the monitoring of the system by UART / TCP. On the cloud, Alibaba cloud platform is used to save and display historical data.
-- [Matlab](https://github.com/) - A browser extension for the Motrix Download Manager. It now has more than 9K+ users worldwide.
-- [Refined GitHub Feeds](https://github.com/) - A browser extension that adds filtering to the Github news feeds. 
+- [STM32](https://github.com/) - A browser extension for the Motrix Download Manager. It now has more than 9K+ users worldwide.
+- [Matlab](https://github.com/) - A browser extension that adds filtering to the Github news feeds. 
 	
 ### Awards and Scholarships
 - Won the 3rd Award of the 2021 China College Students' 'Internet+' Innovation and Entrepreneurship Competition
