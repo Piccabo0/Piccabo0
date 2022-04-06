@@ -1,6 +1,5 @@
 
 # Hey there! I'm Piccaboo. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-<center><b>&nbsp;Know&nbsp;Me&nbsp;Better</b></center>
 <p align="center">
 	<img src="https://img.shields.io/badge/blog-1000+%20pageview-green" alt="Blog"></a>
 	<a href="mailto:caumlc@163.com"><img src="https://img.shields.io/badge/-caumlc@163.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caumlc@163.com"></a>
@@ -27,6 +26,11 @@
 - 🛢 &nbsp; Matlab | Proteus | Multisim | Solidworks | Altium Design
 - 🔧 &nbsp; Paddle | PyCharm | Visual Studio | Keil | Vivado | QT
 
+	<p align="center"><code>⬇️  click the image to quickly chat with me or some anon here! ⬇️</code></p>
+	<p align="center"><a href="https://chat.getloli.com/room/@haoruilee.github?title=lee%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF"><img src="https://chat.getloli.com/room/@haoruilee.github/svg?width=500&height=280&limit=20&theme=light&title=haoruilee@github:%20~&fontSize=13" alt="chatroom"></a></p>
+</p>
+
+
 <details>
   <summary><b>✨&nbsp;&nbsp;Know&nbsp;Me&nbsp;Better</b></summary>
   <br/>
@@ -47,7 +51,3 @@ All of my projects are released as open-source on GitHub, this includes some of 
 - Won 1st place in Several Hackathons
 </details> 
 
-
-	<p align="center"><code>⬇️  click the image to quickly chat with me or some anon here! ⬇️</code></p>
-	<p align="center"><a href="https://chat.getloli.com/room/@haoruilee.github?title=lee%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF"><img src="https://chat.getloli.com/room/@haoruilee.github/svg?width=500&height=280&limit=20&theme=light&title=haoruilee@github:%20~&fontSize=13" alt="chatroom"></a></p>
-</p>
