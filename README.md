@@ -3,7 +3,7 @@
 <p align="center">
 	<a href="https://blog.csdn.net/weixin_46233323"><img src="https://img.shields.io/badge/blog-150k+%20pageview-brightgreen" alt="Blog"></a>
 	<a href="https://cswu-challenge.github.io/"><img src="https://img.shields.io/github/last-commit/CSWU-Challenge/CSWU-Challenge.github.io?color=orange&label=SEU-HPC%20Tutorial" alt="HPC-Tutotial"></a>
-	<a href="mailto:caumlc@163.com"><img src="https://img.shields.io/badge/-haoruileee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haoruileee@gmail.com"></a>
+	<a href="mailto:caumlc@163.com"><img src="https://img.shields.io/badge/-caumlc@163.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caumlc@163.com"></a>
 </p>
 
 <p align="center">
