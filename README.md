@@ -15,7 +15,7 @@
 ### I'm Lingchang Meng
 
 - 🔭 Junior of Automation(Artificial Intelligence) in College of Information and Electrical Engineering(CIEE), China Agricultural University, China
-- 🙋 **I'm working for postgraduate recommendation to THU**! Find my RÉSUMÉ [here!(China mainland)](https://hrlee.cn) 
+- 🙋 **I'm working for postgraduate recommendation to TOP Universities!**! Find my RÉSUMÉ [here!](https://hrlee.cn) 
 - 🏆 Learder of [SEU-HPC(High Perfomance Computing) Team](CSWU-Challenge.github.io)
 - 🤖️ Creator of ChatBot [SEU-iXiaoBao](https://ixiaobao.github.io/xiaobao/)
 - 🌱 Currently working for [Alibaba-Aliyun](https://www.aliyun.com/) as **Machine-learing Intern** on user behavior understanding and golang cloud-server-log projects using golang && python && tensorflow
