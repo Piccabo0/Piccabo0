@@ -34,7 +34,7 @@
 I am a Full Stack Developer developer in Automatic Control Field.
 
 ### My Projects
-All of my projects will be released as open-source on GitHub, this includes some of my GitHub trending projects:
+All of my projects will be released as open-source on GitHub, completed but not uploaded projects will also be updated:
 
 - [Raspberry Pi - CV](https://github.com/) - It is an intelligent vehicle based on RFID and CV and I used Raspberry Pi 4B to develop it. Based on RFID tag and QR code, the vehicle can realize intelligent guidance function in a fixed environment. Based on infrared & ultrasonic sensor group, steering gear and USB camera, the vehicle can also realize intelligent obstacle avoidance function.
 	
