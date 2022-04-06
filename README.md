@@ -1,5 +1,6 @@
 
 # Hey there! I'm Piccaboo. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<center><b>&nbsp;Know&nbsp;Me&nbsp;Better</b></center>
 <p align="center">
 	<img src="https://img.shields.io/badge/blog-1000+%20pageview-green" alt="Blog"></a>
 	<a href="mailto:caumlc@163.com"><img src="https://img.shields.io/badge/-caumlc@163.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caumlc@163.com"></a>
@@ -12,8 +13,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 Junior of Automation in CIEE, CAU, China
-- 🙋 **I'm working for postgraduate recommendation to TOP Universities!**! Find my Resume [here!](https://github.com/Piccabo0/Piccabo0/blob/main/MyResume.pdf) 
-- 🌱 Currently working at [CIEE-Lab202](https://http://ciee.cau.edu.cn/) on **AGV development and Intelligent Car Race** using Python && C && C++
+- 🙋 I'm working for postgraduate recommendation to TOP Universities!! Find my Resume [here!](https://github.com/Piccabo0/Piccabo0/blob/main/MyResume.pdf) 
+- 🌱 Currently working at [CIEE-Lab202](https://http://ciee.cau.edu.cn/) on AGV development and Intelligent Car Race using Python && C && C++
 - ✍️ &nbsp; Playing Soccer and write something interesting as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 - 💬 Ask me about MSP430, STM32 or Raspberry and my projects on caumlc@163.com
@@ -27,7 +28,7 @@
 - 🔧 &nbsp; Paddle | PyCharm | Visual Studio | Keil | Vivado | QT
 
 <details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <summary><b>✨&nbsp;&nbsp;Know&nbsp;Me&nbsp;Better</b></summary>
   <br/>
 
 I am a Full Stack Developer with 8+ years of experience in developing enterprise applications and open-source software.
