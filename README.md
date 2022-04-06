@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Hey there! I'm Piccaboo. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/blog-1000+%20pageview-green" alt="Blog"></a>
@@ -12,18 +12,15 @@
 ---
 
 
-### I'm Lingchang Meng
+<h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 Junior of Automation(Artificial Intelligence) in College of Information and Electrical Engineering(CIEE), China Agricultural University, China
+- 🔭 Junior of Automation in CIEE, CAU, China
 - 🙋 **I'm working for postgraduate recommendation to TOP Universities!**! Find my Resume [here!](https://github.com/Piccabo0/Piccabo0/blob/main/MyResume.pdf) 
-<!-- 
-- 🏆 Learder of [SEU-HPC(High Perfomance Computing) Team](CSWU-Challenge.github.io)
-- 🤖️ Creator of ChatBot [SEU-iXiaoBao](https://ixiaobao.github.io/xiaobao/)
--->
-- 🌱 Currently working at [CIEE-Lab202](https://http://ciee.cau.edu.cn/) on **AGV development and The National University Students intelligent Car Race** using python && C && C++
+- 🌱 Currently working at [CIEE-Lab202](https://http://ciee.cau.edu.cn/) on **AGV development and Intelligent Car Race** using Python && C && C++
 - 💬 Ask me about MSP430, STM32 or Raspberry and my projects on caumlc@163.com
 - :star: You may like [Healthy Code tracer](https://github.com/haoruilee/M5Stack_Healthy_code_tracer) 、 [face recognize](https://github.com/haoruilee/Face_recognize) 、 or [take-out system](https://github.com/haoruilee/ZuiSuWaiMai-MFC)
-- ⚡ Fun fact: *🎼 Music (ElectronicMusic Fan, Pinao player start from scratch, Well-educated zither player, [QQMusic-Page](https://c.y.qq.com/base/fcgi-bin/u?__=MurwMAe64Mik))* && 📚 *Reading (Find my booklist in my [RÉSUMÉ!](https://hrlee.cn))* && *🎮  ~Genshin Impact ！~*
+- ✍️ &nbsp; Playing Soccer and write something interesting as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 
 ### Languages and Tools
