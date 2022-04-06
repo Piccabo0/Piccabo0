@@ -52,7 +52,7 @@ All of my projects will be released as open-source on GitHub, completed but not 
 
 - [AI courses](https://github.com/) - Using neural network to realize image classification and target detection.
 
-- [Driving Theory of Motor](https://github.com/) - Simulation of motor characteristics.
+- [Driving Theory of Motor](https://github.com/Piccabo0/MotorDrive) - Simulation of motor characteristics.
 
 - [Computer Control System](https://github.com/) - Some theoretical simulations.
 
