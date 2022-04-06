@@ -27,7 +27,9 @@
 - 🛢 &nbsp; Matlab | Proteus | Multisim | Solidworks | Altium Design
 - 🔧 &nbsp; Paddle | PyCharm | Visual Studio | Keil | Vivado | QT
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piccabo0&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Piccabo0/github-readme-stats)
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Piccabo0&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 <details>
   <summary><b>✨&nbsp;&nbsp;Know&nbsp;Me&nbsp;Better</b></summary>
