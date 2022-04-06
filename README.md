@@ -48,7 +48,7 @@ All of my projects will be released as open-source on GitHub, completed but not 
 
 ### Curriculum Experiments
 
-- [Automatic Control Principle](https://github.com/) - Some theoretical simulations.
+- [Automatic Control Principle](https://github.com/Piccabo0/Automation_Principles) - Some theoretical simulations.
 
 - [AI courses](https://github.com/) - Using neural network to realize image classification and target detection.
 
