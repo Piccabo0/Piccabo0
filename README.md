@@ -1,12 +1,12 @@
 # Hello World 👋
 
 <p align="center">
-	<img src="https://img.shields.io/badge/OfficialAccount-1000+%20pageview-green" alt="Blog"></a>
+	<img src="https://img.shields.io/badge/blog-1000+%20pageview-green" alt="Blog"></a>
 	<a href="mailto:caumlc@163.com"><img src="https://img.shields.io/badge/-caumlc@163.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caumlc@163.com"></a>
 </p>
 
 <p align="center">
-	<p align="center">Official Account <code> Piccaboo-Official | base64 -d</code></p>
+	<p align="center">Official Account <code> Piccaboo-Official -d</code></p>
 </p>
 
 ---
