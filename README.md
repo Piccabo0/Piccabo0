@@ -14,7 +14,7 @@
 
 ### I'm Lingchang Meng
 
-- 🔭 Junior of Computer Science(Artificial Intelligence) in Chien-Shiung Wu College(Honor), Southeast University, China
+- 🔭 Junior of Automation(Artificial Intelligence) in College of Information and Electrical Engineering(CIEE), China Agricultural University, China
 - 🙋 **I'm looking for research chance such as research assistant or AI intern**! Find my RÉSUMÉ [here!(China mainland)](https://hrlee.cn) or [here!(Overseas)](https://haoruili.work)
 - 🏆 Learder of [SEU-HPC(High Perfomance Computing) Team](CSWU-Challenge.github.io)
 - 🤖️ Creator of ChatBot [SEU-iXiaoBao](https://ixiaobao.github.io/xiaobao/)
