@@ -16,7 +16,7 @@
 - 🌱 Currently working at [CIEE-Lab202](https://http://ciee.cau.edu.cn/) on AGV development and Intelligent Car Race using Python && C && C++
 - ✍️ &nbsp; Playing Soccer and write something interesting as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
-- 💬 Ask me about MSP430, STM32 or Raspberry and my projects on caumlc@163.com
+- 💬 Ask me about MSP430, STM32 or Raspberry Pi and my projects on caumlc@163.com
 - :star: You may like [Healthy Code tracer](https://github.com/haoruilee/M5Stack_Healthy_code_tracer), [face recognize](https://github.com/haoruilee/Face_recognize)  or [take-out system](https://github.com/haoruilee/ZuiSuWaiMai-MFC)
 
 
@@ -39,13 +39,11 @@ I am a Full Stack Developer developer in Automatic Control Field.
 
 ### My Projects
 All of my projects will be released as open-source on GitHub, this includes some of my GitHub trending projects:
-<!--
-- [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This project is a proof of concept that any website can identify and track you, even if you are using private browsing or incognito mode in your web browser. It has around 1000K+ users and 1.8K+ stars.  It got discussed in many privacy forums and conferences worldwide. Various privacy-focused browser vendors were able to implement fixes to prevent fingerprinting due to this project. It also made lots of people aware of the bad effects of browser fingerprinting.
-- [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow) - A Github action to show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed. It is now used by over 4.6K+ users and running on thousands of GitHub actions runner every hour. It is also one of the top 20 [most used](https://github.com/marketplace?category=&query=sort%3Apopularity-desc&type=actions&verification=) GitHub actions internationally in GitHub Marketplace.
--  [SoCLI](https://github.com/gautamkrishnar/socli) scored 300+ stars within 24 hours of its release. It now has almost 2K+ users. It provides an easy way of accessing StackOverflow even if you are hooked into a terminal.
-- [Motrix WebExtension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager. It now has more than 9K+ users worldwide.
-- [Refined GitHub Feeds](https://github.com/gautamkrishnar/refined-github-feeds) - A browser extension that adds filtering to the Github news feeds. 
--->
+
+- [Raspberry Pi](https://github.com/gautamkrishnar/nothing-private) - It is an intelligent vehicle based on RFID and CV and I used Raspberry Pi 4B to develop it. Based on RFID tag and QR code, the vehicle can realize intelligent guidance function in a fixed environment. Based on infrared & ultrasonic sensor group, steering gear and USB camera, the vehicle can also realize intelligent obstacle avoidance function.
+- [Blog Post Workflow](https://github.com/) - A Github action to show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed. It is now used by over 4.6K+ users and running on thousands of GitHub actions runner every hour. It is also one of the top 20 [most used](https://github.com/marketplace?category=&query=sort%3Apopularity-desc&type=actions&verification=) GitHub actions internationally in GitHub Marketplace.
+- [Motrix WebExtension](https://github.com/) - A browser extension for the Motrix Download Manager. It now has more than 9K+ users worldwide.
+- [Refined GitHub Feeds](https://github.com/) - A browser extension that adds filtering to the Github news feeds. 
 	
 ### Awards and Scholarships
 - Won the 3rd Award of the 2021 China College Students' 'Internet+' Innovation and Entrepreneurship Competition
