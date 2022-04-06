@@ -11,14 +11,15 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 Junior of Automation in CIEE, CAU, China
+- 🔭 Junior of Automation in CAU, China
 - 🙋 I'm working for postgraduate recommendation to TOP Universities!! Find my Resume [here!](https://github.com/Piccabo0/Piccabo0/blob/main/MyResume.pdf) 
-- 🌱 Currently working at [CIEE-Lab202](https://http://ciee.cau.edu.cn/) on AGV development and Intelligent Car Race using Python && C && C++
-- ✍️ &nbsp; Playing Soccer and write something interesting as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🌱 Currently working at CIEE-Lab206 on AGV development and Intelligent Car Race
+- ✍️ &nbsp; Playing Soccer and write something interesting as hobbies/side hustles
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress
 - 💬 Ask me about MSP430, STM32 or Raspberry Pi and my projects on caumlc@163.com
+<!--
 - :star: You may like [Healthy Code tracer](https://github.com/haoruilee/M5Stack_Healthy_code_tracer), [face recognize](https://github.com/haoruilee/Face_recognize)  or [take-out system](https://github.com/haoruilee/ZuiSuWaiMai-MFC)
-
+-->
 
 <h3>🛠 Tech Stack</h3>
 
@@ -35,10 +36,25 @@ I am a Full Stack Developer developer in Automatic Control Field.
 ### My Projects
 All of my projects will be released as open-source on GitHub, this includes some of my GitHub trending projects:
 
-- [Raspberry Pi](https://github.com/gautamkrishnar/nothing-private) - It is an intelligent vehicle based on RFID and CV and I used Raspberry Pi 4B to develop it. Based on RFID tag and QR code, the vehicle can realize intelligent guidance function in a fixed environment. Based on infrared & ultrasonic sensor group, steering gear and USB camera, the vehicle can also realize intelligent obstacle avoidance function.
-- [IoT&MSP430](https://github.com/) - It is a home intelligent henhouse monitoring and control system. I use MSP430 board to realize the interconnection of "edge, mobile and cloud terminal". At the edge, the monitoring and real-time display of environmental factors, data storage and the development of early warning system are realized. In the mobile terminal, I used QT to develop the upper computer control software, realizing the monitoring of the system by UART / TCP. On the cloud, Alibaba cloud platform is used to save and display historical data.
-- [STM32](https://github.com/) - A browser extension for the Motrix Download Manager. It now has more than 9K+ users worldwide.
-- [Matlab](https://github.com/) - A browser extension that adds filtering to the Github news feeds. 
+- [Raspberry Pi - CV](https://github.com/) - It is an intelligent vehicle based on RFID and CV and I used Raspberry Pi 4B to develop it. Based on RFID tag and QR code, the vehicle can realize intelligent guidance function in a fixed environment. Based on infrared & ultrasonic sensor group, steering gear and USB camera, the vehicle can also realize intelligent obstacle avoidance function.
+	
+- [MSP430 - IoT](https://github.com/) - It is a home intelligent henhouse monitoring and control system. I use MSP430 board to realize the interconnection of "edge, mobile and cloud terminal". At the edge, the monitoring and real-time display of environmental factors, data storage and the development of early warning system are realized. In the mobile terminal, I used QT to develop the upper computer control software, realizing the monitoring of the system by UART / TCP. On the cloud, Alibaba cloud platform is used to save and display historical data.
+	
+- [Basys3 - FPGA ](https://github.com/) - It is a car that automatically goes back and forth between the starting line and the finish line. In the process, the car can complete corresponding actions in different sections. It has the functions of obstacle avoidance, voice control and driving state detection.
+	
+- [Matlab - CV](https://github.com/) - Analysis of flower rising trend based on the proportion of flowers of different sizes using Matlab.
+	
+- [STM32 - IoT](https://github.com/) - An Auto Guided Vehicle which my teammates and I are doing.
+
+### Other Experiments
+- [Automatic Control Principle](https://github.com/) - Some theoretical simulations.
+
+- [AI courses](https://github.com/) - Using neural network to realize image classification and target detection.
+
+- [Driving Theory of Motor](https://github.com/) - Simulation of motor characteristics.
+
+- [Computer Control System](https://github.com/) - Some theoretical simulations.
+
 	
 ### Awards and Scholarships
 - Won the 3rd Award of the 2021 China College Students' 'Internet+' Innovation and Entrepreneurship Competition
