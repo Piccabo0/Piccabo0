@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-	<p align="center">Official Account <code> Piccaboo-Official -d</code></p>
+	<p align="center">Official Account <code> Piccaboo-Official </code></p>
 </p>
 
 ---
