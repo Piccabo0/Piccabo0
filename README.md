@@ -16,7 +16,7 @@
 
 - 🔭 Junior of Automation(Artificial Intelligence) in College of Information and Electrical Engineering(CIEE), China Agricultural University, China
 - 🙋 **I'm working for postgraduate recommendation to TOP Universities!**! Find my Resume [here!](https://github.com/Piccabo0/Piccabo0/blob/main/MyResume.pdf) 
-<-
+<!-
 - 🏆 Learder of [SEU-HPC(High Perfomance Computing) Team](CSWU-Challenge.github.io)
 - 🤖️ Creator of ChatBot [SEU-iXiaoBao](https://ixiaobao.github.io/xiaobao/)
 ->
