@@ -1,5 +1,6 @@
-<p align="center">
+
 # Hey there! I'm Piccaboo. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<p align="center">
 	<img src="https://img.shields.io/badge/blog-1000+%20pageview-green" alt="Blog"></a>
 	<a href="mailto:caumlc@163.com"><img src="https://img.shields.io/badge/-caumlc@163.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caumlc@163.com"></a>
 </p>
@@ -16,21 +17,17 @@
 - 🔭 Junior of Automation in CIEE, CAU, China
 - 🙋 **I'm working for postgraduate recommendation to TOP Universities!**! Find my Resume [here!](https://github.com/Piccabo0/Piccabo0/blob/main/MyResume.pdf) 
 - 🌱 Currently working at [CIEE-Lab202](https://http://ciee.cau.edu.cn/) on **AGV development and Intelligent Car Race** using Python && C && C++
-- 💬 Ask me about MSP430, STM32 or Raspberry and my projects on caumlc@163.com
-- :star: You may like [Healthy Code tracer](https://github.com/haoruilee/M5Stack_Healthy_code_tracer) 、 [face recognize](https://github.com/haoruilee/Face_recognize) 、 or [take-out system](https://github.com/haoruilee/ZuiSuWaiMai-MFC)
 - ✍️ &nbsp; Playing Soccer and write something interesting as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 💬 Ask me about MSP430, STM32 or Raspberry and my projects on caumlc@163.com
+- :star: You may like [Healthy Code tracer](https://github.com/haoruilee/M5Stack_Healthy_code_tracer), [face recognize](https://github.com/haoruilee/Face_recognize)  or [take-out system](https://github.com/haoruilee/ZuiSuWaiMai-MFC)
 
 
-### Languages and Tools
+<h3>🛠 Tech Stack</h3>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+- 💻 &nbsp; Python | C++ | C | Verilog  
+- 🛢 &nbsp; Matlab | Proteus | Multisim | Solidworks | Altium Design
+- 🔧 &nbsp; Paddle | PyCharm | Visual Studio | Keil | Vivado | QT
 
 ---
 
