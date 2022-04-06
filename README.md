@@ -40,7 +40,7 @@ All of my projects will be released as open-source on GitHub, this includes some
 	
 - [MSP430 - IoT](https://github.com/) - It is a home intelligent henhouse monitoring and control system. I use MSP430 board to realize the interconnection of "edge, mobile and cloud terminal". At the edge, the monitoring and real-time display of environmental factors, data storage and the development of early warning system are realized. In the mobile terminal, I used QT to develop the upper computer control software, realizing the monitoring of the system by UART / TCP. On the cloud, Alibaba cloud platform is used to save and display historical data.
 	
-- [Basys3 - FPGA ](https://github.com/) - It is a car that automatically goes back and forth between the starting line and the finish line. In the process, the car can complete corresponding actions in different sections. It has the functions of obstacle avoidance, voice control and driving state detection.
+- [Basys3 - FPGA ](https://https://github.com/Piccabo0/Basys3-FPGA) - It is a car that automatically goes back and forth between the starting line and the finish line. In the process, the car can complete corresponding actions in different sections. It has the functions of obstacle avoidance, voice control and driving state detection.
 	
 - [Matlab - CV](https://github.com/) - Analysis of flower rising trend based on the proportion of flowers of different sizes using Matlab.
 	
