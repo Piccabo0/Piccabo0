@@ -14,12 +14,10 @@
 - 🔭 &nbsp; Junior of Automation in CAU, China
 - 🙋 &nbsp; I'm working for postgraduate recommendation to TOP Universities!! Find my Resume [here!](https://github.com/Piccabo0/Piccabo0/blob/main/MyResume.pdf) 
 - 🌱 &nbsp; Currently working at CIEE-Lab206 on AGV development and Intelligent Car Race
-- ✍️ &nbsp; Playing Soccer and writing something interesting as hobbies/side hustles
+- ✍️ &nbsp; Playing balls, writing something interesting and musics as hobbies/side hustles
 - ☕ &nbsp; I belive, calming down to think can be the ultimate solution for any stress
 - 💬 &nbsp; Ask me about MSP430, STM32 or Raspberry Pi and my projects on caumlc@163.com
-<!--
-- :star: You may like [Healthy Code tracer](https://github.com/haoruilee/M5Stack_Healthy_code_tracer), [face recognize](https://github.com/haoruilee/Face_recognize)  or [take-out system](https://github.com/haoruilee/ZuiSuWaiMai-MFC)
--->
+- :star: &nbsp;Before graduating from University, I hope to reproduce [Zhihui's Intelligent Desktop housekeeper robot](https://www.zhihu.com/question/51942763)
 
 <h3>🛠 Tech Stack</h3>
 
