@@ -17,13 +17,13 @@
 - ✍️ &nbsp; Playing balls, writing something interesting and musics as hobbies/side hustles
 - ☕ &nbsp; I belive, calming down to think can be the ultimate solution for any stress
 - 💬 &nbsp; Ask me about MSP430, STM32 or Raspberry Pi and my projects on caumlc@163.com
-- :star: &nbsp;Before graduating from University, I hope to reproduce [Zhihui's Intelligent Desktop housekeeper robot](https://www.zhihu.com/question/51942763)
+- :star: &nbsp;Before graduating from University, I hope to reproduce [Zhihui's Desktop Robot XiaoKe](https://www.zhihu.com/question/51942763)
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C++ | C | Verilog  
 - 🛢 &nbsp; Matlab | Proteus | Multisim | Solidworks | Altium Design
-- 🔧 &nbsp; Paddle | PyCharm | Visual Studio | Keil | Vivado | QT
+- 🔧 &nbsp; Paddle | PyCharm | Visual Studio | Keil | Vivado | QT | VIM
 
 
 <details>
