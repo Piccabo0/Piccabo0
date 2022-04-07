@@ -35,7 +35,7 @@ I am a Full Stack Developer developer in Automatic Control Field.
 ### My Projects
 All of my projects will be released as open-source on GitHub, completed but not uploaded projects will also be updated:
 
-- [Raspberry Pi - CV](https://github.com/) - It is an intelligent vehicle based on RFID and CV and I used Raspberry Pi 4B to develop it. Based on RFID tag and QR code, the vehicle can realize intelligent guidance function in a fixed environment. Based on infrared & ultrasonic sensor group, steering gear and USB camera, the vehicle can also realize intelligent obstacle avoidance function.
+- Raspberry Pi - CV - It is an intelligent vehicle based on RFID and CV and I used Raspberry Pi 4B to develop it. Based on RFID tag and QR code, the vehicle can realize intelligent guidance function in a fixed environment. Based on infrared & ultrasonic sensor group, steering gear and USB camera, the vehicle can also realize intelligent obstacle avoidance function.
 	
 - [MSP430 - IoT](https://github.com/Piccabo0/MSP430-IoT) - It is a home intelligent henhouse monitoring and control system. I use MSP430 board to realize the interconnection of "edge, mobile and cloud terminal". At the edge, the monitoring and real-time display of environmental factors, data storage and the development of early warning system are realized. In the mobile terminal, I used QT to develop the upper computer control software, realizing the monitoring of the system by UART / TCP. On the cloud, Alibaba cloud platform is used to save and display historical data.
 	
@@ -43,17 +43,17 @@ All of my projects will be released as open-source on GitHub, completed but not 
 	
 - [Matlab - CV](https://github.com/Piccabo0/Matlab-CV) - Analysis of flower rising trend based on the proportion of flowers of different sizes using Matlab.
 	
-- [STM32 - IoT](https://github.com/) - An Auto Guided Vehicle which my teammates and I are doing.
+- STM32 - IoT - An Auto Guided Vehicle which my teammates and I are doing.
 
 ### Curriculum Experiments
 
 - [Automatic Control Principle](https://github.com/Piccabo0/Automation_Principles) - Some theoretical simulations.
 
-- [AI courses](https://github.com/) - Using neural network to realize image classification and target detection.
+- AI courses - Using neural network to realize image classification and target detection.
 
 - [Driving Theory of Motor](https://github.com/Piccabo0/MotorDrive) - Simulation of motor characteristics.
 
-- [Computer Control System](https://github.com/) - Some theoretical simulations.
+- Computer Control System - Some theoretical simulations.
 
 	
 ### Awards and Scholarships
