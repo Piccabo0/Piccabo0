@@ -13,7 +13,7 @@
 
 - 🔭 &nbsp; Junior of Automation in CAU, China
 - 🙋 &nbsp; I'm working for postgraduate recommendation to TOP Universities!! Find my Resume [here!](https://github.com/Piccabo0/Piccabo0/blob/main/MyResume.pdf) 
-- 🌱 &nbsp; Currently working at CIEE-Lab206 on AGV development and Intelligent Car Race
+- 🌱 &nbsp; Currently working at CIEE-Lab209 on AGV development and Intelligent Car Race
 - ✍️ &nbsp; Playing balls, writing something interesting and musics as hobbies/side hustles
 - ☕ &nbsp; I belive, calming down to think can be the ultimate solution for any stress
 - 💬 &nbsp; Ask me about MSP430, STM32 or Raspberry Pi and my projects on caumlc@163.com
