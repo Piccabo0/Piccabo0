@@ -11,7 +11,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Junior of Automation in CAU, China
+- 🔭 &nbsp; Currently pursuing Ph.D. degree at Institution of automation, Chinese Academy of Sciences. Obtained B.Eng degree from China Agricultural University.
 - 🙋 &nbsp; I'm working for postgraduate recommendation to TOP Universities!! Find my Resume [here!](https://github.com/Piccabo0/Piccabo0/blob/main/MyResume.pdf) 
 - 🌱 &nbsp; Currently working at CIEE-Lab209 on AGV development and Intelligent Car Race
 - ✍️ &nbsp; Playing balls, writing something interesting and musics as hobbies/side hustles
