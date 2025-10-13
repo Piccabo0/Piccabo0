@@ -38,17 +38,6 @@ All of my projects will be released as open-source on GitHub, completed but not 
 - [Matlab - CV](https://github.com/Piccabo0/Matlab-CV) - Analysis of flower rising trend based on the proportion of flowers of different sizes using Matlab.
 	
 - STM32 - IoT - An Auto Guided Vehicle which my teammates and I are doing.
-
-### Curriculum Experiments
-
-- [Automatic Control Principle](https://github.com/Piccabo0/Automation_Principles) - Some theoretical simulations.
-
-- AI courses - Using neural network to realize image classification and target detection.
-
-- [Driving Theory of Motor](https://github.com/Piccabo0/MotorDrive) - Simulation of motor characteristics.
-
-- Computer Control System - Some theoretical simulations.
-
 	
 ### Scholarships
 - National scholarships x2
