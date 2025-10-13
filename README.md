@@ -18,16 +18,13 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C++ | C | Verilog  
-- 🛢 &nbsp; Matlab | Proteus | Multisim | Solidworks | Altium Design
-- 🔧 &nbsp; Paddle | PyCharm | Visual Studio | Keil | Vivado | QT | VIM
+- 💻 &nbsp; Python | C | Matlab | C++ 
+- 🔧 &nbsp; Matlab | Solidworks | Altium Design | Ansys Fluent | Keil
 
 
 <details>
   <summary><b>✨&nbsp;&nbsp;Know&nbsp;Me&nbsp;Better</b></summary>
   <br/>
-
-I am a Full Stack Developer developer in Automatic Control Field.
 
 ### My Projects
 All of my projects will be released as open-source on GitHub, completed but not uploaded projects will also be updated:
@@ -53,15 +50,13 @@ All of my projects will be released as open-source on GitHub, completed but not 
 - Computer Control System - Some theoretical simulations.
 
 	
-### Awards and Scholarships
-- Won the 3rd Award of the 2021 China College Students' 'Internet+' Innovation and Entrepreneurship Competition
-- Won the Honorable Price of Mathematical Contest In Modeling
-- Won the 1st Award of China Agriculture University Modeling Contest
-
-- National Scholarships
-- Presidential Fellowship (Awarded to 20 students of the whole school each year )
-- Jinlongyu Scholarships
-- Academic first-class scholarship
+### Scholarships
+- National scholarships x2
+- Presidential scholarship (Awarded to 20 representive students of the whole school each year) x2
+- Academic first-class scholarship x2
+- Lenovo Great Wall scholarship x1
+- Jinlongyu scholarship x1
+- Spring Rain scholarship x1
 	
 </details> 
 
