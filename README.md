@@ -12,12 +12,9 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; Currently Ph.D. degree at Institution of Automation, CAS. Obtained B.Eng degree from China Agricultural University.
-- 🙋 &nbsp; My research interest is cross-medium locomotion in intelligent bionic robotic flying fish.
-- 🌱 &nbsp; Currently interning at Spatial Intelligence Group, Microsoft Research Asia.
-- ✍️ &nbsp; Playing balls, writing something interesting and musics as hobbies/side hustles
-- ☕ &nbsp; I belive, calming down to think can be the ultimate solution for any stress
-- 💬 &nbsp; Ask me about MSP430, STM32 or Raspberry Pi and my projects on caumlc@163.com
-- :star: &nbsp;Before graduating from University, I hope to reproduce [Zhihui's Desktop Robot XiaoKe](https://www.zhihu.com/question/51942763)
+- 🙋 &nbsp; My research focuses on cross-medium locomotion in intelligent bionic robotic flying fish.
+- 🌱 &nbsp; Currently internship at Spatial Intelligence Group, Microsoft Research Asia.
+- ✍️ &nbsp; Playing balls, writing something and singing songs.
 
 <h3>🛠 Tech Stack</h3>
 
