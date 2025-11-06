@@ -11,10 +11,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Currently Ph.D. degree at Institution of Automation, CAS. Obtained B.Eng degree from China Agricultural University.
-- 🙋 &nbsp; My research focuses on cross-medium locomotion in intelligent bionic robotic flying fish.
-- 🌱 &nbsp; Currently internship at Spatial Intelligence Group, Microsoft Research Asia.
-- ✍️ &nbsp; Playing balls, writing something and singing songs.
+- 🔭 &nbsp; Ph.D. Student at the Institute of Automation, CAS | B.Eng from China Agricultural University
+- 🙋 &nbsp; Research Focus: Cross-medium locomotion of intelligent bionic robotic flying fish
+- 🌱 &nbsp; Internship: Spatial Intelligence Group, Microsoft Research Asia
+- ✍️ &nbsp; Interests: Playing sports, writing, and singing
 
 <h3>🛠 Tech Stack</h3>
 
