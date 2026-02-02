@@ -1,5 +1,5 @@
 
-# Hey there! I'm Piccaboo. </a>
+# Hey! I'm Piccaboo. </a>
 <p align="center">
 	<img src="https://img.shields.io/badge/blog-1000+%20pageview-green" alt="Blog"></a>
 	<a href="mailto:caumlc@163.com"><img src="https://img.shields.io/badge/-caumlc@163.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caumlc@163.com"></a>
@@ -12,7 +12,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; **Education Background**: Ph.D. Student at the Institute of Automation, CAS | B.Eng from China Agricultural University
-- 🙋 &nbsp; **Research Focus**: Cross-medium locomotion of intelligent bionic robotic flying fish
+- 🙋 &nbsp; **Research Focus**: Bionic robotic flying fish
 - 🌱 &nbsp; **Internship**: Spatial Intelligence Group, Microsoft Research Asia
 - ✍️ &nbsp; **Interests**: Football, basketball, billiards, writing, and singing
 
