@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+!+%F0%9F%91%8B+;+I'm+Piccaboo!" alt="Piccaboo" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hi+,+I'm+Piccaboo!" alt="Piccaboo" /></a>
 </h1>
 
 # Hey! I'm Piccaboo. </a>
