@@ -42,8 +42,8 @@
 
 <h4> 📝 Publications </h4>
 
-- **[CAC-2024] A Review of Bionic Robotic Flying Fish: Innovations in Cross-Medium Locomotion**  
-  In this paper, we reviews the morphological features, locomotion mechanisms of flying fish and relevant biomimetic research works. [Links](https://ieeexplore.ieee.org/document/10865780)
+- **[[CAC-2024]](https://ieeexplore.ieee.org/document/10865780) A Review of Bionic Robotic Flying Fish: Innovations in Cross-Medium Locomotion**  
+  In this paper, we reviews the morphological features, locomotion mechanisms of flying fish and relevant biomimetic research works.
 - **[RAL-2026] Enabling High-Speed Taxiing Motion in a Bionic Robotic Fish Using a Compliant Passive Joint**  
   In this paper, we introduce a new strategy of cross-medium locomotion by mimicking the taxiing motion of flying fish.
   
