@@ -24,8 +24,9 @@
 
 <h3> 📂 Featured Projects </h3>
 
-- **[MSP430 - IoT]([https://github.com/aniketm07/DalVacationHome](https://github.com/Piccabo0/MSP430-IoT))**  
-  A serverless vacation home booking app with multi-factor authentication, real-time messaging, and a conversational chatbot for customer support. Built using AWS, GCP, Firebase, and more. Visit here ➡️ [Demo](https://drive.google.com/file/d/1UgIJSPoZk2NgWDMRYgZ9KntRRHJLm6EI/view)
+- **Data Center Robot**  
+  We used the UR15 robotic arm, SEER Robotics' AMR and a self-made lifting robot to implement a demo of exchanging GB
+  200 servers from a rack in the Microsoft data center.
 
 <hr><!--横线-->
 
@@ -41,9 +42,11 @@
 
 <h4> 📝 Publications </h4>
 
-- **[MSP430 - IoT]([https://github.com/aniketm07/DalVacationHome](https://github.com/Piccabo0/MSP430-IoT))**  
-  A serverless vacation home booking app with multi-factor authentication, real-time messaging, and a conversational chatbot for customer support. Built using AWS, GCP, Firebase, and more. Visit here ➡️ [Demo](https://drive.google.com/file/d/1UgIJSPoZk2NgWDMRYgZ9KntRRHJLm6EI/view)
-
+- **[CAC-2024] A Review of Bionic Robotic Flying Fish: Innovations in Cross-Medium Locomotion**  
+  In this paper, we reviews the morphological features, locomotion mechanisms of flying fish and relevant biomimetic research works. [Links](https://ieeexplore.ieee.org/document/10865780)
+- **[RAL-2026] Enabling High-Speed Taxiing Motion in a Bionic Robotic Fish Using a Compliant Passive Joint**  
+  In this paper, we introduce a new strategy of cross-medium locomotion by mimicking the taxiing motion of flying fish.
+  
 <hr><!--横线-->
 
 <h4> 🏆 Scholarships </h4>
