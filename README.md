@@ -2,32 +2,31 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hi+,+I'm+Piccaboo!" alt="Piccaboo" /></a>
-</h1>
-
-# Hey! I'm Piccaboo. </a>
 <p align="center">
-	<img src="https://img.shields.io/badge/blog-1000+%20pageview-green" alt="Blog"></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hi+,+I'm+Piccaboo!" alt="Piccaboo" /></a>
+</p>
+<p align="center">
+	<a href="#"><img src="https://img.shields.io/badge/WeChat%20Official%20Account-Piccaboo--Official-grey?style=flat-square&logo=wechat&logoColor=white&labelColor=07C160"></a>
 	<a href="mailto:caumlc@163.com"><img src="https://img.shields.io/badge/-caumlc@163.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caumlc@163.com"></a>
 </p>
 
-<p align="center">
-	<p align="center">Official Account <code> Piccaboo-Official </code></p>
-</p>
+<hr><!--横线-->
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3>👨🏻‍💻 About Me</h3>
 
-- 🔭 &nbsp; **Education Background**: Ph.D. Student at the Institute of Automation, CAS | B.Eng from China Agricultural University
-- 🙋 &nbsp; **Research Focus**: Bionic robotic flying fish
-- 🌱 &nbsp; **Internship**: Spatial Intelligence Group, Microsoft Research Asia
-- ✍️ &nbsp; **Interests**: Football, basketball, billiards, writing, and singing
+- 🔭 **Background**: Ph.D. Student at the Institute of Automation, CAS | B.Eng from China Agricultural University  
+- 🙋 **Research Focus**: Bionic Robotic Flying Fish, cross-medium locomotion  
+- 🌱 **Internship**: Spatial Intelligence Group, Microsoft Research Asia  
+- ✍️ **Interests**: Football, basketball, billiards, writing, and singing
 
-<h3>🛠 Tech Stack</h3>
+<hr><!--横线-->
+
+<h3> 🛠 Tech Stack </h3>
 
 - 💻 &nbsp; Python | C | Matlab | C++ 
 - 🔧 &nbsp; Matlab | Solidworks | Altium Design | Ansys Fluent | Keil
 
+<hr><!--横线-->
 
 <details>
   <summary><b>✨&nbsp;&nbsp;Know&nbsp;Me&nbsp;Better</b></summary>
@@ -47,12 +46,20 @@ All of my projects will be released as open-source on GitHub, completed but not 
 - STM32 - IoT - An Auto Guided Vehicle which my teammates and I are doing.
 	
 ### Scholarships
-- National scholarships x2
-- Presidential scholarship (Awarded to 20 representive students of the whole school each year) x2
-- Academic first-class scholarship x2
-- Lenovo Great Wall scholarship x1
-- Jinlongyu scholarship x1
-- Spring Rain scholarship x1
+<p align="center">
+	<a href="#"><img src="https://img.shields.io/badge/National%20Scholarship-2021-grey?style=flat-square&labelColor=FFD700"></a>
+	<a href="#"><img src="https://img.shields.io/badge/National%20Scholarships-2022-grey?style=flat-square&labelColor=FFD700"></a>
+	<a href="#"><img src="https://img.shields.io/badge/Presidential%20Scholarships-2021-grey?style=flat-square&labelColor=FFD700"></a>
+	<a href="#"><img src="https://img.shields.io/badge/Presidential%20Scholarships-2022-grey?style=flat-square&labelColor=FFD700"></a>
+	<a href="#"><img src="https://img.shields.io/badge/First%20Prize%20Scholarships-2020-grey?style=flat-square&labelColor=FFD700"></a>
+</p>
+<p align="center">
+	<a href="#"><img src="https://img.shields.io/badge/First%20Prize%20Scholarships-2021-grey?style=flat-square&labelColor=FFD700"></a>
+	<a href="#"><img src="https://img.shields.io/badge/First%20Prize%20Scholarships-2022-grey?style=flat-square&labelColor=FFD700"></a>
+	<a href="#"><img src="https://img.shields.io/badge/Lenovo%20Scholarships-2022-grey?style=flat-square&labelColor=FFD700"></a>
+	<a href="#"><img src="https://img.shields.io/badge/Jinlongyu%20Scholarships-2021-grey?style=flat-square&labelColor=FFD700"></a>
+	<a href="#"><img src="https://img.shields.io/badge/Chunyu%20Scholarships-2022-grey?style=flat-square&labelColor=FFD700"></a>
+</p>
 	
 </details> 
 
@@ -62,3 +69,6 @@ All of my projects will be released as open-source on GitHub, completed but not 
 	<p align="center"><a href="https://chat.getloli.com/room/@haoruilee.github?title=lee%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF"><img src="https://chat.getloli.com/room/@haoruilee.github/svg?width=500&height=280&limit=20&theme=light&title=haoruilee@github:%20~&fontSize=13" alt="chatroom"></a></p>
 </p>
 -->
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&reversal=true />
+</div>
