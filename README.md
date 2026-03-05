@@ -52,12 +52,15 @@ All of my projects will be released as open-source on GitHub, completed but not 
 	<a href="#"><img src="https://img.shields.io/badge/National%20Scholarships-2022-grey?style=flat-square&labelColor=FFD700"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Presidential%20Scholarships-2021-grey?style=flat-square&labelColor=FFD700"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Presidential%20Scholarships-2022-grey?style=flat-square&labelColor=FFD700"></a>
-	<a href="#"><img src="https://img.shields.io/badge/First%20Prize%20Scholarships-2020-grey?style=flat-square&labelColor=FFD700"></a>
+	
 </p>
 <p align="center">
+	<a href="#"><img src="https://img.shields.io/badge/First%20Prize%20Scholarships-2020-grey?style=flat-square&labelColor=FFD700"></a>
 	<a href="#"><img src="https://img.shields.io/badge/First%20Prize%20Scholarships-2021-grey?style=flat-square&labelColor=FFD700"></a>
 	<a href="#"><img src="https://img.shields.io/badge/First%20Prize%20Scholarships-2022-grey?style=flat-square&labelColor=FFD700"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Lenovo%20Scholarships-2022-grey?style=flat-square&labelColor=FFD700"></a>
+</p>
+<p align="center">
 	<a href="#"><img src="https://img.shields.io/badge/Jinlongyu%20Scholarships-2021-grey?style=flat-square&labelColor=FFD700"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Chunyu%20Scholarships-2022-grey?style=flat-square&labelColor=FFD700"></a>
 </p>
